@@ -1,2 +1,3 @@
 # CV_project
-to adjust the laptop volume by simple hand gesture
+A computer vision project that can adjust the volume of your system through simple hand movements
+
