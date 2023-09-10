@@ -28,4 +28,5 @@ run
 python3 Volume_Control.py
 ```
 
-
+## Contributing
+## Contributions to this project are welcome. If you have any ideas for improvements, bug fixes, or additional features, please feel free to fork the repository and submit a pull request.
